@@ -2,7 +2,7 @@ body {
   color : #231f20;
 }
 div {
-	width: 350px;
+	width: 300px;
 }
 nav ul {
   display: flex;
@@ -13,9 +13,12 @@ nav ul {
   margin: auto;
   max-width: 100%;
 }
+ul li {
+	background-color: blue; 
+}
 nav ul li {
   flex-wrap: wrap;
-  width: 100px;
+  width: 70px;
   margin: 5px;
   text-align: center;
   cursor: pointer;
@@ -44,10 +47,17 @@ h3 {
   font-size: 22px;
   color: #942C61;
   margin: 0;
+  padding: 0;
+  border-top: 1px solid #e4ecef;
 }
 ul {
   padding: 0;
   margin: 0;
+}
+header p {
+	padding-top: 0.5rem;
+	border-top: 0px;
+	font-size: 1.8rem;
 }
 p {
   border-top: 1px solid #e4ecef;
@@ -56,17 +66,16 @@ p {
   z-index: 1000;
 }
 main {
-	width: 350px;
+	width: 300px;
 }
 main img {
   width: 300px;
-  height: 300px;
+  height: 200px;
 }
 
-@media screen and (min-width: 550px) {
+@media screen and (min-width: 500px) {
   main img {
     float: right;
-    width: 55%;
   }
   div {
 	  width: 100%;
@@ -81,8 +90,12 @@ main img {
 	  width: 90%;
 	  height: auto;
   }
+  nav ul li {
+  width: 120px;
+  margin: 5px;
 }
 
 footer {
   clear: both;
+}
 }

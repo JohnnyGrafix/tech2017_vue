@@ -7,29 +7,29 @@ props.name: Coins
 props.title: Digital currencies go balistic
 props.description: Bitcoin has soared almost 20-fold since the start of the year, and in December moved into the mainstream as two major US exchanges began trading futures in the unit. 
 props.description2: The currency uses peer-to-peer blockchain technology. It has no central bank or government backing, but is "mined" by computers that perform highly complex calculations 
-props.color: #E5826A
+props.color: #49479d
 
 image: tech2017_2-01.svg
 props.name: Genes
-props.title: Gene-editing takes further steps forward
+props.title: Gene-editing takes further steps
 props.description: Scientists  announced in December successful experiments on mice, in alleviating symptoms of kidney disease, diabetes and muscular dystrophy, using  CRISPR/Cas9 gene-editing techniques
 props.description2: In July scientists in the US announced first success in repairing a DNA mutation in human embryos
-props.color: #E5826A
+props.color: #49479d
 
 
 image: Tech2017_3-01.svg
 props.name: A.I.
-props.title: Artificial Intelligence gets smarter
+props.title: Smarter Artificial Intelligence
 props.description: Alpha Go Zero, descendant of the computer that in 2016 won its first match against a human world champion of the ancient game of Go, thrashes its predecessor 100-0.
 props.description2: It took the new AI system 3 days to master the game, by playing against itself.
-props.color: #E5826A
+props.color: #49479d
 
 image: Tech2017_4-01.svg
 props.name: Brain
 props.title: Mind-controlled prosthetic
 props.description: American Bill Kochevar, paralysed from the shoulders down, moves his arm with his own thoughts for the first time in 8 years, researchers announced in March
 props.description2:Implants attached to his brain sent signals to a computer that was taught to interpret his neural activity
-props.color: #E5826A
+props.color: #49479d
 
 
 image: Tech2017_5-01.svg
@@ -37,14 +37,14 @@ props.name: Hack
 props.title: Global cyberattack
 props.description: The 'Wannacry' virus is unleashed in May, hits more than 300,000 victims in scores of countries,including banks, hospitals and government agencies
 props.description2:Targets were locked out of their computers and payment was demanded in Bitcoins. Security researchers pointed to a  potential North Korean link
-props.color: #E5826A
+props.color: #49479d
 
 image: Tech2017_6-01.svg
 props.name: Bus
-props.title: Driverless vehicles are coming to town
+props.title: Driverless vehicles
 props.description: In November Britain’s finance minister Philip Hammond announced plans to put driverless cars on UK roads by 2021
 props.description2:In January Paris began its first experiments in driverless busses, using electric vehicles on a bridge connecting two  railway stations
-props.color: #E5826A
+props.color: #49479d
 
 image: Tech2017_7-01.svg
 props.name: Drone
@@ -52,14 +52,14 @@ props.title: Drones broaden their portfolio
 props.description: Researchers in December announced they were studying falcon hunting strategies, with a potential benefit being a design for drones that can knockout rogue  
 drones
 props.description2:In September Dubai announced a successful “concept” flight for a driverless hover-taxi service. Authorities anticipate 5 years of testing before getting a service in the air
-props.color: #E5826A
+props.color: #49479d
 
 image: Tech2017_8-01.svg
 props.name: Waste
-props.title: Small bio-tech hope against the global plastic waste crisis
+props.title: The plastic waste crisis
 props.description: Researchers in April published a study that showed that the  beeswax munching wax worm had the ability to digest plastic
 props.description2:The study offered hope for biologically inspired technologies that could be used to deal with the annual 300 million tonnes of global plastic pollution
-props.color: #E5826A
+props.color: #49479d
 
 
 []
