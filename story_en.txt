@@ -32,7 +32,7 @@ props.description2:Implants attached to his brain sent signals to a computer tha
 props.color: #49479d
 
 
-image: Tech2017_5-01.svg
+image: Tech2017_hack.png
 props.name: Hack
 props.title: Global cyberattack
 props.description: The 'Wannacry' virus is unleashed in May, hits more than 300,000 victims in scores of countries,including banks, hospitals and government agencies
